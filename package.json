@@ -1,0 +1,30 @@
+{
+  "name": "opcua-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:electron": "cross-env NODE_ENV=development concurrently \"npm run start:backend\" \"npm run start:frontend\" \"npm run electron\"",
+    "start:frontend": "cd apps/frontend && npm run dev",
+    "start:backend": "cd apps/backend && npm run start",
+    "start:test-code": "ts-node apps/backend/src/test-code/test-code4.ts",
+    "electron": "electron dist/electron/main.js --no-sandbox --disable-gpu",
+    "build:electron": "tsc -p tsconfig.electron.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.15.30",
+    "concurrently": "^9.1.2",
+    "cross-env": "^7.0.3",
+    "electron": "^36.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.2",
+    "luxon": "^3.6.1",
+    "uuid": "^11.1.0"
+  }
+}
