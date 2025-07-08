@@ -1,0 +1,332 @@
+[
+  {
+    "machineType": "FANUC",
+    "name": "Machine #1",
+    "ip": "1.1.1.1",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "id",
+    "fileTransferPw": "pw",
+    "machineId": "55b9bbd1-e447-44ed-a765-455f0cca31de"
+  },
+  {
+    "machineType": "FANUC",
+    "name": "Machine #2",
+    "ip": "1.1.1.2",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "id2",
+    "fileTransferPw": "pw2",
+    "machineId": "2b41b609-91b5-4ee6-919d-e32c24d73e64"
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "67",
+    "name": "9MPS #2",
+    "ip": "10.33.74.162",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "68",
+    "name": "9MPS #3",
+    "ip": "10.33.74.161",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "40",
+    "name": "HLPS #3",
+    "ip": "10.33.74.158",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "1",
+    "name": "HM1250-6P",
+    "ip": "10.33.74.231",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "25",
+    "name": "HM1250W #1",
+    "ip": "10.33.74.219",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "48",
+    "name": "HM1250W #2",
+    "ip": "10.33.74.215",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "71",
+    "name": "HSP6300",
+    "ip": "10.33.74.183",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "72",
+    "name": "HSP8000 #1",
+    "ip": "10.33.74.184",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "46",
+    "name": "HSP8000 #2",
+    "ip": "10.33.74.164",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "43",
+    "name": "VTR1620M",
+    "ip": "10.33.74.212",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "32",
+    "name": "DBC130L II",
+    "ip": "10.33.74.220",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "34",
+    "name": "HLPS #1",
+    "ip": "10.33.74.159",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "33",
+    "name": "NB14W",
+    "ip": "10.33.74.221",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "8",
+    "name": "AH2J",
+    "ip": "10.33.74.239",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "27",
+    "name": "HM2J",
+    "ip": "10.33.74.165",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "64",
+    "name": "YASDA10T",
+    "ip": "10.33.74.240",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "65",
+    "name": "YASDA15T",
+    "ip": "10.33.74.246",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "39",
+    "name": "YBM1530V",
+    "ip": "10.33.74.242",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "41",
+    "name": "DCM2750F",
+    "ip": "10.33.56.210",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "44",
+    "name": "DCM2760F #1",
+    "ip": "10.33.74.169",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "45",
+    "name": "DCM2760F #2",
+    "ip": "10.33.74.225",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "49",
+    "name": "DCM2760F #3",
+    "ip": "10.33.74.51",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "15",
+    "name": "DCM2780F",
+    "ip": "10.33.74.155",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "18",
+    "name": "DCM3260F #1",
+    "ip": "10.33.74.233",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "30",
+    "name": "DCM3260F #2",
+    "ip": "10.33.74.230",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "47",
+    "name": "DCM3260F #3",
+    "ip": "10.33.74.215",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "50",
+    "name": "DCM3260F #4",
+    "ip": "10.33.74.52",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "16",
+    "name": "DCM37100F",
+    "ip": "10.33.74.153",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "19",
+    "name": "HF7M",
+    "ip": "10.33.74.234",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "20",
+    "name": "HF7P",
+    "ip": "10.33.74.214",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  },
+  {
+    "machineType": "FANUC",
+    "machineId": "35",
+    "name": "HLPS #2",
+    "ip": "10.33.74.160",
+    "port": 8193,
+    "fileTransferProtocol": "FOCAS",
+    "fileTransferId": "",
+    "fileTransferPw": ""
+  }
+]
